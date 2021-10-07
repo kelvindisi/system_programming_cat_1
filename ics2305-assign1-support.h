@@ -28,7 +28,7 @@ int integer_evens(int size, int array[]);
 int make_array(int *arr, int size, int exp, int md);
 	// Make an exponentiated set of values
 
-//int most_values(????);
+int most_values(int arr[], int size, int max);
 	// Print out the values with the most occurences in array
 
 //int graph_functions(????);
